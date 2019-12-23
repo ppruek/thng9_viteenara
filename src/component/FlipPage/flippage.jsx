@@ -9,7 +9,6 @@ import menu3 from '../../img/menu3.jpg';
 import './flippage.css'
 
 class FlipPage extends Component {
-
     constructor(props) {
         super(props)
         this.totalPages = 4
