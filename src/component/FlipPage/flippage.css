@@ -1,0 +1,32 @@
+.App-pages {
+    height: 100vh;
+    width: 100vw;
+    perspective: 960px;
+    -ms-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+    display: flex;
+    justify-content: center;
+}
+
+.App-page {
+    color: white;
+    height: 100%;
+}
+
+.App-page_red {
+    background: #f44336;
+}
+
+.App-page_green {
+    background: #4caf50;
+}
+
+.App-page_blue {
+    background: #2196f3;
+}
+
+.App-page_orange {
+    background: #ff9800;
+}
